@@ -211,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/c6cbf4c6-5aed-4c4a-830e-acfb95d53faa\.netlify\.app\/");
+        var filterRegex = new RegExp("https:\/\/spanorti\.quarto\.pub\/word-embeddings-blog");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

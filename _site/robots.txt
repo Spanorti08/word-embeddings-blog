@@ -1,1 +1,1 @@
-Sitemap: https://c6cbf4c6-5aed-4c4a-830e-acfb95d53faa.netlify.app/sitemap.xml
+Sitemap: https://spanorti.quarto.pub/word-embeddings-blog/sitemap.xml

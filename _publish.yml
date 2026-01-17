@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c6cbf4c6-5aed-4c4a-830e-acfb95d53faa
+      url: https://spanorti.quarto.pub/word-embeddings-blog
